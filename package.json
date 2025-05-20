@@ -27,11 +27,11 @@
   },
   "devDependencies": {
     "@types/three": "^0.150.2",
-    "three": "^0.174.0",
+    "three": "^0.160.1",
     "typescript": "^5.0.3"
   },
   "peerDependencies": {
     "@tweenjs/tween.js": "^19.0.0",
-    "three": "^0.174.0"
+    "three": "^0.160.1"
   }
 }
